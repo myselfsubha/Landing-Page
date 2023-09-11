@@ -1,0 +1,142 @@
+.home{
+    margin: -8px;
+    background-image:url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/4ff63fb0a1d3531caa87c68a/-min.jpg
+    );
+    height: 600px;
+    margin-bottom: 1px;
+    background-position: 0px;
+    background-size:cover;
+}
+.navbar ul{
+    overflow: auto;
+    list-style: none;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.navbar li div{
+    float: left;
+    margin: 0px -35px;
+    padding: 0px 0px;
+}
+.hov{
+    text-decoration: none;
+    float: right;
+    position:relative;
+    right: 134px;
+    margin: 25px;
+    margin-top: 20px;
+    padding: 2px;
+    color: white;
+}
+.hov:hover{
+    
+    background-color: rgb(14 13 12);
+    border-radius: 5px;
+}
+.logo img{
+    float: left;
+    height: 60px;
+    width: 115px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.logo .logo-name{
+    text-decoration: none;
+    cursor: pointer;
+    color: blanchedalmond;
+    position: relative;
+    left: -6px;
+    top: 38px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 29px;
+}
+.home-content{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+.box{
+    font-size: 39px;
+    margin-left: 40px;
+    margin-top: 35px;
+}
+.box-content{
+    font-size: 25px;
+    margin-left: 140px;
+    margin-top: 30px;
+    width: 300px;
+}
+.btn{
+    width: 120px;
+    height: 30px;
+    font-size: larger;
+    margin-top: 38px;
+    margin-left: 200px;
+    background-color: #dfae75;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.heading{
+    color: rgb(10, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    margin-left: 600px; 
+}
+ .about{
+    height: 500px;
+    margin: -8px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-image: linear-gradient(to bottom,#1d1e22,#423f3f);
+}
+.about img{
+    float: right;
+    margin-top:0px;
+    margin-right: 2px;
+}
+.about-box{
+    color: white;
+    font-family:'Times New Roman';
+    font-size: 45px;
+    position: absolute;
+    left: 50px;
+    padding-top: 53px;
+
+}
+.about-content{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid #29f125;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius:35px;
+    height: 200px;
+    width: 450px;
+    margin-left: 210px;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 8px;
+    padding-right: 5px;
+    margin-top: 144px;
+}
+.contact{
+    background-image: url("restraunt1.jpg");
+    height: 550px;
+    margin: -8px;
+    margin-top: 1px;
+    background-size: cover;
+    background-position-y: 2px;
+}
+.form-group{  
+    width: 300px;
+    
+}
+.form-group label{
+    color: #ffe78c;
+}
+.form-padding{
+    padding-top: 100px;
+    float: right;
+    margin-right: 170px;
+    margin-top: 25px;
+}
